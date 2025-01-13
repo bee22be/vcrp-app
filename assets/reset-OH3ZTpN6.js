@@ -1,0 +1,1 @@
+import"./theme-GvPFp0Tn.js";document.querySelector(".resetFunc__button").addEventListener("click",function(e){window.confirm("関連データをリセットします。よろしいですか？")&&(localStorage.removeItem("VCRP__id"),localStorage.removeItem("VCRP__name"),localStorage.removeItem("VCRP__login"))});
