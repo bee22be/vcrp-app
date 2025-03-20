@@ -87,6 +87,12 @@ import{o as lt}from"./dialog-DtPcjgpU.js";function Hr(j){return j&&j.__esModule&
                 </ul>
             </section>
             <section class="box">
+                <h2>EMS以外でこのツールを使っていた場合</h2>
+                <ul>
+                    <li><a href="https://bee22be.github.io/vcrp-app/reset.html">リセットページ</a>から設定を一度リセットしてください</li>
+                </ul>
+            </section>
+            <section class="box">
                 <h2>このアプリを作ってる人</h2>
                 <ul>
                     <li>上那べべ：<a href="https://x.com/bee22be">https://x.com/bee22be</a></li>
@@ -182,6 +188,12 @@ import{o as lt}from"./dialog-DtPcjgpU.js";function Hr(j){return j&&j.__esModule&
                 <h2>1日に複数回提出する場合</h2>
                 <ul>
                     <li>1日に何回も報告書を提出して問題ないので、同日でも報告する必要があるたびに「基本的な流れ」の手順を実施してください</li>
+                </ul>
+            </section>
+            <section class="box">
+                <h2>PD以外でこのツールを使っていた場合</h2>
+                <ul>
+                    <li><a href="https://bee22be.github.io/vcrp-app/reset.html">リセットページ</a>から設定を一度リセットしてください</li>
                 </ul>
             </section>
             <section class="box">
