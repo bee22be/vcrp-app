@@ -1,4 +1,4 @@
-import{o as lt}from"./dialog-DtPcjgpU.js";function Hr(j){return j&&j.__esModule&&Object.prototype.hasOwnProperty.call(j,"default")?j.default:j}var Tr,Nn={exports:{}},ko=Nn.exports;/*!
+import{o as lt}from"./dialog--O3BFV3u.js";function Hr(j){return j&&j.__esModule&&Object.prototype.hasOwnProperty.call(j,"default")?j.default:j}var Tr,Nn={exports:{}},ko=Nn.exports;/*!
  * jQuery JavaScript Library v3.7.1
  * https://jquery.com/
  *
@@ -14,6 +14,7 @@ import{o as lt}from"./dialog-DtPcjgpU.js";function Hr(j){return j&&j.__esModule&
             <div class="time">
                 <div class="time__text"><span class="time__name"></span><span class="time__day"></span></div>
                 <time class="time__hhmm"><span class="time__hhmm--hh"></span><span class="time__hhmm--colon">:</span><span class="time__hhmm--mm"></span><span class="time__hhmm--ss"></span></time>
+                <div class="time__reload" onclick="location.reload();"></div>
             </div>
             <section class="emsReport box">
                 <div class="vcrpapp__input">
@@ -126,6 +127,7 @@ import{o as lt}from"./dialog-DtPcjgpU.js";function Hr(j){return j&&j.__esModule&
             <div class="time">
                 <div class="time__text"><span class="time__name"></span><span class="time__day"></span></div>
                 <time class="time__hhmm"><span class="time__hhmm--hh"></span><span class="time__hhmm--colon">:</span><span class="time__hhmm--mm"></span><span class="time__hhmm--ss"></span></time>
+                <div class="time__reload" onclick="location.reload();"></div>
             </div>
             <section class="pdReport box">
                 <div class="vcrpapp__input">
